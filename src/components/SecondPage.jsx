@@ -452,7 +452,7 @@ const SecondPage = () => {
           <div className="user-details">
             <img
               src="ok.jpg"
-              alt="avatar"
+              alt="profile"
               className="avatar"
             />
             <div>
@@ -474,7 +474,7 @@ const SecondPage = () => {
                 <div className="error">{errors.name}</div>
               )}
               <p>
-                Your phone number: <strong>9131283321</strong>
+                Your phone number: <strong>9434934794</strong>
               </p>
             </div>
           </div>
