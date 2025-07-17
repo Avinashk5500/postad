@@ -463,7 +463,7 @@ const SecondPage = () => {
                   maxLength={NAME_MAX}
                   onChange={e => handleInput("name", e.target.value)}
                   onBlur={() => handleBlur("name")}
-                  placeholder="Enter your name"
+                  placeholder="enter your name "
                   required
                 />
                 <span className="char-count">
