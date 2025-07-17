@@ -451,7 +451,7 @@ const SecondPage = () => {
           <h3>REVIEW YOUR DETAILS</h3>
           <div className="user-details">
             <img
-              src="/img/story.avif"
+              src="ok.jpg"
               alt="avatar"
               className="avatar"
             />
