@@ -463,7 +463,7 @@ const SecondPage = () => {
                   maxLength={NAME_MAX}
                   onChange={e => handleInput("name", e.target.value)}
                   onBlur={() => handleBlur("name")}
-                  placeholder="Virat Gangwar"
+                  placeholder="Enter your name"
                   required
                 />
                 <span className="char-count">
@@ -474,7 +474,7 @@ const SecondPage = () => {
                 <div className="error">{errors.name}</div>
               )}
               <p>
-                Your phone number: <strong>95******11</strong>
+                Your phone number: <strong>9131283321</strong>
               </p>
             </div>
           </div>
